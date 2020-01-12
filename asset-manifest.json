@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c3a83263.chunk.css",
+    "main.js": "/static/js/main.07e29cec.chunk.js",
+    "main.js.map": "/static/js/main.07e29cec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f6ac920b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f6ac920b.js.map",
+    "static/js/2.4b334c42.chunk.js": "/static/js/2.4b334c42.chunk.js",
+    "static/js/2.4b334c42.chunk.js.map": "/static/js/2.4b334c42.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.fdfddc0d091ff944ed16a0b198906b6d.js": "/precache-manifest.fdfddc0d091ff944ed16a0b198906b6d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c3a83263.chunk.css.map": "/static/css/main.c3a83263.chunk.css.map",
+    "static/js/2.4b334c42.chunk.js.LICENSE": "/static/js/2.4b334c42.chunk.js.LICENSE",
+    "static/media/AppleTv.png": "/static/media/AppleTv.d5c4860b.png",
+    "static/media/Aurmatic.png": "/static/media/Aurmatic.82c85d8e.png",
+    "static/media/DarkSky.png": "/static/media/DarkSky.4a88b333.png",
+    "static/media/Facetune.png": "/static/media/Facetune.bca431fe.png",
+    "static/media/FitOn.png": "/static/media/FitOn.7c192fa9.png",
+    "static/media/Scrivener.png": "/static/media/Scrivener.fe7ba4fd.png",
+    "static/media/Sibapp.jpg": "/static/media/Sibapp.8e7d959c.jpg",
+    "static/media/Xmart.png": "/static/media/Xmart.70a2cc52.png",
+    "static/media/iContacts.png": "/static/media/iContacts.54ab74d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ac920b.js",
+    "static/js/2.4b334c42.chunk.js",
+    "static/css/main.c3a83263.chunk.css",
+    "static/js/main.07e29cec.chunk.js"
+  ]
+}
